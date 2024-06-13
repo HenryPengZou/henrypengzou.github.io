@@ -131,7 +131,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: TreeForest # blog_name will be displayed in your blog page
-blog_description: Explore, Comtemplate, Grow and Be Happy~ # a simple whitespace theme for academics
+blog_description: Explore, comtemplate, grow and stay happy~ # a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
