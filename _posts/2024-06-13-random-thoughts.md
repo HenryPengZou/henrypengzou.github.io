@@ -8,10 +8,13 @@ categories: treeforest
 thumbnail: assets/img/blog/0_random_musings.webp
 ---
 
-# Random Musings
 *Some random but possibly profound thoughts.*
 
-![](HenryPengZou/henrypengzou.github.io/assets/img/blog/0_random_musings.webp)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/blog/0_random_musings.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 
 ## Life
