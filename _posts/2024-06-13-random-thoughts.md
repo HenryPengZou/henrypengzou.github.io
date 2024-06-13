@@ -5,10 +5,14 @@ date: 2024-06-13 # 16:40:16
 description: Some random but possibly profound thoughts.
 tags: tree-comtemplate
 categories: treeforest
+thumbnail: assets/img/blog/0_random_musings.webp
 ---
 
 # Random Musings
 *Some random but possibly profound thoughts.*
+
+![](HenryPengZou/henrypengzou.github.io/assets/img/blog/0_random_musings.webp)
+
 
 ## Life
 **Principle 101:** Do what truly matters to you! You will feel much happier when pursuing your own desires and dreams, instead of fulfilling others' expectations.
