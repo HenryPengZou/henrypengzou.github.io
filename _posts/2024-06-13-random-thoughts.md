@@ -15,10 +15,10 @@ thumbnail: assets/img/blog/0_random_musings.webp
 
 
 ## Life
-**Principle 101:** Do what truly matters to you! You will feel much happier when pursuing your own desires and dreams, instead of fulfilling others' expectations.
+> **Principle 101:** Do what truly matters to you! You will feel much happier when pursuing your own desires and dreams, instead of fulfilling others' expectations.
 
 ## Research
-**Principle 201:** Identify and explore new, interesting, or useful problems, and use well-motivated or innovative tools and methods to address them.
+> **Principle 201:** Identify and explore new, interesting, or useful problems, and use well-motivated or innovative tools and methods to address them.
 
 
 
