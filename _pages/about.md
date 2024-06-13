@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Illinois Chicago</a>. 
+subtitle: CS PhD Student @<a href='#'>University of Illinois Chicago</a> | Applied Scientist Intern @AWS AI
 
 profile:
   align: right
