@@ -3,9 +3,9 @@ layout: post
 title: Habit Tracker 
 date: 2024-06-13
 description: Good habits foster joy and health, the truest forms of living wealth.
-tags: tree-grow
+tags: tree-happy
 categories: treeforest
-thumbnail: assets/img/blog/0_random_musings.webp
+thumbnail: assets/img/blog/1_habit_tracker.webp
 redirect: https://docs.google.com/spreadsheets/d/13ZdsIeot7N8ce85dke2xPmYQLBrQxZxCxjutSsXqAI0/edit?usp=sharing
 ---
 
