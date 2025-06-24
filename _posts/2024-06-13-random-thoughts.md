@@ -20,7 +20,7 @@ thumbnail: assets/img/blog/0_random_musings.webp
 ## Life
 > **Principle 101:** Be yourself! You will feel much happier when pursuing your own desires and dreams, instead of just fulfilling others' expectations.
 
-> > **Trick 101:** Whenever you feel anxious, do push-ups! 💪
+> **Trick 101:** Whenever you feel anxious, do push-ups! 💪
 
 ## Research
 > **Principle 201:** Identify and explore new, interesting, or useful problems, and use well-motivated or innovative tools and methods to address them.
